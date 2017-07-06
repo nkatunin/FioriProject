@@ -28,7 +28,7 @@
   },
   "translation": {
     "translationDomain": "",
-    "supportedLanguages": "en,fr,de",
+    "supportedLanguages": "cs,en,fr,de",
     "defaultLanguage": "en",
     "defaultI18NPropertyFile": "i18n.properties",
     "resourceModelName": "i18n"
